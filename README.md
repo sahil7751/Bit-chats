@@ -32,7 +32,7 @@ Every message is end-to-end encrypted to ensure maximum security and confidentia
 ---
 ## 🎥 App Demo
 
-🎬 [Watch App Demo on Google Drive](https://drive.google.com/file/d/1MjG-U8AzG8mSgbPEafEDkO89Ieoc8y-l/view?usp=drive_link)
+🎬 [Watch App Demo on Google Drive](https://drive.google.com/file/d/1ibEYrMFtTdo6IsXF8gbOLIt1FhrzFsg-/view?usp=drive_link)
 
 ---
 
